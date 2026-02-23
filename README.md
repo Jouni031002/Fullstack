@@ -1,14 +1,14 @@
-Full Stack Open
+#Full Stack Open
 
 This repository contains my solutions and exercises from the Full Stack Open course.
 
 The course focuses on modern web development with JavaScript and introduces React, REST APIs and client–server architecture.
 
-Contents:
+#Contents:
 
 Introduction to how web applications work.
 
-Topics included:
+#Topics included:
 
 HTTP requests and responses
 
@@ -18,11 +18,11 @@ Developer tools
 
 Basic web concepts
 
-Introduction to React:
+#Introduction to React:
 
 Building interactive user interfaces with React.
 
-Exercises include:
+#Exercises include:
 
 React components
 
@@ -34,7 +34,7 @@ Event handling
 
 Rendering dynamic data
 
-Example applications built during this part:
+#Example applications built during this part:
 
 Course information app
 
@@ -42,7 +42,7 @@ Unicafe feedback app
 
 Anecdotes voting app
 
-Technologies used:
+#Technologies used:
 
 JavaScript
 
@@ -52,7 +52,7 @@ HTML / CSS
 
 Node.js (development environment)
 
-Purpose of This Repository:
+#Purpose of This Repository:
 
 This repository documents my progress while learning modern full stack web development.
 
